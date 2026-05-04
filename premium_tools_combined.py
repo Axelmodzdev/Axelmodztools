@@ -28,7 +28,6 @@ from time import sleep
 # ============================================================
 import subprocess,logging,struct,hashlib,base64,marshal
 from typing import Set,Optional,List,Dict,Any
-from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from faker import Faker
 import pyotp
