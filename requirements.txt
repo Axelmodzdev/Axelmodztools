@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
-fake-useragent
+fake_useragent
 lxml
 colorama
